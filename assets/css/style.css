@@ -1053,6 +1053,10 @@ section {
   color: #0e2442;
   content: "/";
 }
+.text-orange {
+ color:darkorange;
+
+}
 
 @media (max-width: 768px) {
   .breadcrumbs .d-flex {
